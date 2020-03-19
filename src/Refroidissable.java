@@ -1,0 +1,3 @@
+interface Refroidissable {
+    void refroidir();
+}

@@ -1,0 +1,4 @@
+interface Chauffable {
+    void chauffer();
+
+}
